@@ -40,7 +40,7 @@ The original Tower of Hanoi was invented in 1883 by the french mathematician Éd
 
 ## Contributing
 
-Feel free to contribute with corrections, optimizations, etc. Since this is a recreational project, there's no strict guidelines on how one should contribute. 
+Feel free to contribute with corrections, optimizations, etc. Since this is a recreational project, there are no strict guidelines on how one should contribute. 
 
 ## License
 
